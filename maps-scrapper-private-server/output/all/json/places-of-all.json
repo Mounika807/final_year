@@ -1,0 +1,106 @@
+[
+    {
+        "place_id": "ChIJZ8gTGfrN5zsR0KBy74Kv6D8",
+        "name": "Banganga Tank",
+        "description": "Spiritual rituals often take place at this spring-fed reservoir built in 1127 CE.",
+        "is_spending_on_ads": false,
+        "reviews": 726,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOy6q7F8kMl2vXi0UMVtOa-kj82pINTZWB22pPA=w408-h306-k-no",
+        "main_category": "Pond",
+        "categories": [
+            "Pond"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Banganga Tank, Teen Batti, Malabar Hill, Mumbai, Maharashtra 400006",
+        "review_keywords": [
+            {
+                "keyword": "temples",
+                "count": 34
+            },
+            {
+                "keyword": "historical place",
+                "count": 27
+            },
+            {
+                "keyword": "hindu",
+                "count": 23
+            },
+            {
+                "keyword": "rama",
+                "count": 20
+            },
+            {
+                "keyword": "spiritual",
+                "count": 18
+            },
+            {
+                "keyword": "culture",
+                "count": 14
+            },
+            {
+                "keyword": "ancient",
+                "count": 14
+            },
+            {
+                "keyword": "sea",
+                "count": 12
+            },
+            {
+                "keyword": "fresh water",
+                "count": 9
+            },
+            {
+                "keyword": "structure",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Banganga+Tank/@18.9454583,72.7936514,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cdfa1913c867:0x3fe8af82ef72a0d0!8m2!3d18.9454723!4d72.7936432!16zL20vMDVkbHRy?authuser=0&entry=ttu",
+        "detailed_reviews": [
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkdDVHaXVBRRAB",
+                "reviewer_name": "Vijay Nayak",
+                "rating": 5,
+                "review_text": "",
+                "published_at": "a week ago",
+                "published_at_date": "2024-02-23 17:16:50.514259",
+                "response_from_owner_text": "",
+                "response_from_owner_ago": "",
+                "response_from_owner_date": null,
+                "review_likes_count": 0,
+                "total_number_of_reviews_by_reviewer": 11,
+                "total_number_of_photos_by_reviewer": 10,
+                "reviewer_url": "https://www.google.com/maps/contrib/110308331705062856114/reviews?entry=ttu",
+                "is_local_guide": true,
+                "review_translated_text": null,
+                "response_from_owner_translated_text": null
+            },
+            {
+                "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkMjlLMTdRRRAB",
+                "reviewer_name": "P Ka",
+                "rating": 4,
+                "review_text": "This is a holy water place with a high meaning to the Hindu community.",
+                "published_at": "a week ago",
+                "published_at_date": "2024-02-23 17:16:50.516255",
+                "response_from_owner_text": "",
+                "response_from_owner_ago": "",
+                "response_from_owner_date": null,
+                "review_likes_count": 0,
+                "total_number_of_reviews_by_reviewer": 228,
+                "total_number_of_photos_by_reviewer": 371,
+                "reviewer_url": "https://www.google.com/maps/contrib/101771365936879686363/reviews?entry=ttu",
+                "is_local_guide": true,
+                "review_translated_text": null,
+                "response_from_owner_translated_text": null
+            }
+        ]
+    }
+]
